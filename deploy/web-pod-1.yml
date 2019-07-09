@@ -1,3 +1,5 @@
+#Two containers(web and redis) runs in the same pod.
+#Rest config, rules are same.
 apiVersion: "v1"
 kind: Pod
 metadata:
